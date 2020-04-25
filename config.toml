@@ -1,0 +1,57 @@
+baseurl         = "https://jgorostegui.github.io/POC.github.io/"
+theme           = "casper-two"
+languageCode    = "es-ES"
+disqusShortname = ""
+paginate        = 7
+#SectionPagesMenu = "main"
+canonifyurls    = true
+themesDir = ""
+
+[params]
+  title       = "Tecnócratas Digitales"
+  subtitle    = "Tecnócratas Digitales"
+  copyright   = "© 2020"
+
+  cover       = "img/blog-cover.jpg"
+  description = ""
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = ""
+  linkedinName = ""
+  mediumName = ""
+
+  logo = "hugo-logo.png"
+  orgName = ""
+  orgWebsite = "https://github.com/Tecnocratas-Digitales"
+  orgDescription = ""
+
+  showSupport = true
+
+  author = ""
+  authorAvatar = ""
+  authorLocation = ""
+  authorWebsite = ""
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/post"
+  weight = 200
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 99
