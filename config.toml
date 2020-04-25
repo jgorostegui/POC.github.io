@@ -6,7 +6,6 @@ paginate        = 7
 #SectionPagesMenu = "main"
 canonifyurls    = true
 themesDir = ""
-publishDir = "docs"
 
 [params]
   title       = "Tecnócratas Digitales"
