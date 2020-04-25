@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://jgorostegui.github.io/POC.github.io/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jgorostegui.github.io/POC.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started</title>
+      <link>https://jgorostegui.github.io/POC.github.io/tags/getting-started/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jgorostegui.github.io/POC.github.io/tags/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://jgorostegui.github.io/POC.github.io/tags/python/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jgorostegui.github.io/POC.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://jgorostegui.github.io/POC.github.io/tags/tutorial/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jgorostegui.github.io/POC.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
