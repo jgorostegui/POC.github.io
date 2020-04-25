@@ -1,4 +1,4 @@
-![github pages](https://github.com/jgorostegui/POC.github.io/workflows/github%20pages/badge.svg?branch=master)
+![github pages](https://jgorostegui.github.io/POC.github.io/post/)
 
 # POC.github.io
 
